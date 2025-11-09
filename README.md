@@ -29,3 +29,5 @@ Permite detectar patrones más profundos dentro de los datos, creando o transfor
 - **R² (Coeficiente de Determinación):** un valor bajo indica que el modelo no logra explicar bien la variabilidad de los datos.
 
 k-means -> algoritmo clustering agrupar, elegir grupos y el algoritmos argupa datos 
+pca
+pipelines
