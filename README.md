@@ -27,3 +27,5 @@ Permite detectar patrones más profundos dentro de los datos, creando o transfor
 - **RMC (Raíz del Error Cuadrático Medio):** facilita la interpretación en las mismas unidades de la variable objetivo.  
 - **MAE (Error Absoluto Medio):** no da pesos extra a los valores atípicos, mostrando un panorama claro del error típico.  
 - **R² (Coeficiente de Determinación):** un valor bajo indica que el modelo no logra explicar bien la variabilidad de los datos.
+
+k-means -> algoritmo clustering agrupar, elegir grupos y el algoritmos argupa datos 
