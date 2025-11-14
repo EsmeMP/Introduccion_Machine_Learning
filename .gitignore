@@ -1,0 +1,27 @@
+# Entorno virtual
+ml_env/
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Modelos y datos pesados
+*.pt
+*.pth
+*.npz
+*.npy
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas temporales
+.ipynb_checkpoints/
+.cache/
+
+# Logs
+*.log
