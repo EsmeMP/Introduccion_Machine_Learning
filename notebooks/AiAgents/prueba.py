@@ -14,3 +14,4 @@
     # PCA (principal component analystics) -> tecnica de reduccion de dimensionalidad
 # Modelo de refuerzo; se reciben cosas al aprender nuevas cosas(feedback a la IA)
 
+# haciendo prueba con projects de git hub :3
