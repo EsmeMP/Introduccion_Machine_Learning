@@ -3,6 +3,7 @@ ml_env/
 tf_env/
 venv/
 .env/
+.env
 .venv/
 
 

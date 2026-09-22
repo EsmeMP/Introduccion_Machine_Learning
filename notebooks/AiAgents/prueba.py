@@ -1,4 +1,5 @@
 # Modelos de machine learning
+# groq
 # Modelos supervisados;aprende a traves de datos etiquetados(se le ense;a con ejemplos)
     # regresion logistica -> predecir probabilidades de clases
     # arbol de decison -> imita la toma de decisiones de un humano
@@ -15,3 +16,4 @@
 # Modelo de refuerzo; se reciben cosas al aprender nuevas cosas(feedback a la IA)
 
 # haciendo prueba con projects de git hub :3
+# haciendo prueba con projects parte II hu03 consultar asignaturas
