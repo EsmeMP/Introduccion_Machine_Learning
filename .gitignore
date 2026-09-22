@@ -29,7 +29,7 @@ Thumbs.db
 *.log
 
 # ignorar notas
-notes.txt
+# notes.txt
 
 kagglecatsanddogs_5340_copy/
 kagglecatsanddogs_5340/
